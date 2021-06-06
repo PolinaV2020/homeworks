@@ -1,0 +1,15 @@
+{
+  "name": "homeworks",
+  "version": "1.0.0",
+  "description": "tasks using lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "homeworks"
+  },
+  "author": "Polina",
+  "license": "ISC"
+}
